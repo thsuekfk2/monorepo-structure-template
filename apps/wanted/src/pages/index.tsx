@@ -24,7 +24,7 @@ export default function Home() {
             의존성 테스트
             <code className={styles.code}>{sayHello()}</code>
           </p>
-          <Button>Button UI</Button>
+          <Button variant="contained">Button UI</Button>
           <div>
             <a
               href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
