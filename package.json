@@ -1,0 +1,12 @@
+{
+  "name": "yarn-berry-workspace-test",
+  "packageManager": "yarn@3.5.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
